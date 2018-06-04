@@ -1,0 +1,2 @@
+# Local-delivery-services-app-by-Meratask
+Meratask App is one of the Hyper Local Delivery Service and lets you deliver items like clothes, gadgets, medicines, gifts, parcels, documents, non perishable food, and a lot more in approximately a minute with their mobile application. All you need to do is download the App and enter pick up and drop location. And your task is booked! Hassle free and quick task booking, don’t you think so?
